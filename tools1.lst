@@ -1,0 +1,7 @@
+
+          @@ -0,0 +1,4 @@
+        1 +echo -e "\e[1;32m"
+        2 +cowsay JavaScript FTW!  
+        3 +echo -e "  		 \e[1;33m~~~\e[1;36m Welcome\e[1;34m M4rkWalker\e[1;33m~~~" #change your name
+        4 +PS1="${debian_chroot:+($debian_chroot)}\e[1;33m <==[\e[1;31mm4rk\e[1;33m@\e[1;36mrooted\e[1;33m]<=>[\e[1;31m\w\e[1;33m]==>\n\e[1;31m $\e[1;37m "
+          \ No newline at end of file
